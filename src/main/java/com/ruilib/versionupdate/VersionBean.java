@@ -4,11 +4,10 @@ import java.io.Serializable;
 
 
 /**
- * @author by benny
- * @date on 2018/6/25.
- * @function 版本信息
+ * @author wencheng
+ * @create 2019/12/6
+ * @Describe
  */
-
 public class VersionBean implements Serializable {
 
     private int versionCode; // 10

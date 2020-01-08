@@ -16,11 +16,10 @@ import android.support.v4.content.FileProvider;
 import java.io.File;
 
 import static android.content.Context.NOTIFICATION_SERVICE;
-
 /**
- * @author by benny
- * @date on 2018/6/29.
- * @function
+ * @author wencheng
+ * @create 2019/12/6
+ * @Describe
  */
 
 public class UpdateNotionManager {

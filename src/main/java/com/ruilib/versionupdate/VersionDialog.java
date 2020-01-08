@@ -14,11 +14,10 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-
 /**
  * @author wencheng
- * @create 2019/11/12
- * @Describe 版本更新弹框
+ * @create 2019/12/6
+ * @Describe
  */
 public class VersionDialog implements View.OnClickListener {
 

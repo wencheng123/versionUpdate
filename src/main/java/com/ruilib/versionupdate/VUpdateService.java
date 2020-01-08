@@ -30,10 +30,9 @@ import okhttp3.Response;
 
 
 /**
- * @author pengfaming
- * @version V1.0
- * @date 2019/6/28 14:57
- * @dec 版本更新
+ * @author wencheng
+ * @create 2019/12/6
+ * @Describe
  */
 public class VUpdateService extends Service {
     private final String TAG = "VUpdateService";

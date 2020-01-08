@@ -10,9 +10,9 @@ import android.text.TextUtils;
 import java.util.List;
 
 /**
- * @author pengfaming
- * @version V1.0
- * @date 2019/6/28 16:02
+ * @author wencheng
+ * @create 2019/12/6
+ * @Describe
  */
 public class VUpdateUtil {
 
